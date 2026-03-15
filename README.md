@@ -22,6 +22,22 @@ A structured hiring framework for identifying, evaluating, and selecting high-pe
 ### Remote Recruitment Operations Playbook
 A framework supporting remote hiring processes, candidate sourcing pipelines, and recruitment workflows.
 
+## Recruitment Projects
+
+### Global Sales Recruitment Playbook
+A structured hiring framework for identifying, evaluating, and placing high-performing sales professionals in commercial environments.
+
+### Remote Recruitment Operations Playbook
+A recruitment operations framework supporting remote hiring processes, sourcing pipelines, and candidate evaluation workflows.
+
+### WiseWater Media Recruitment
+Recruitment projects supporting the growth of WiseWater Media, including:
+
+• Sales Executive hiring  
+• Sales Manager recruitment  
+• Journalist placement  
+• Interview and evaluation frameworks
+
 ### WiseWater Media Recruitment Projects
 • Sales Executive hiring  
 • Sales Manager placement  
