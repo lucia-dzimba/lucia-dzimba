@@ -1,16 +1,52 @@
-## Hi there 👋
+# Lucia Dzimba
 
-<!--
-**lucia-dzimba/lucia-dzimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Global Sales Recruiter | Talent Sourcing Specialist | Recruitment Systems & Hiring Frameworks | Founder – LushGlobal
 
-Here are some ideas to get you started:
+📍 Johannesburg, South Africa  
+🌐 https://lushglobal.online  
+🔗 https://www.linkedin.com/in/lucia-dzimba  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I specialize in sourcing and placing high-performing commercial talent, particularly in sales and media environments. My focus is on building structured recruitment systems that align hiring with business growth, revenue performance, and scalable teams.
+
+---
+
+## Recruitment Portfolio
+
+### Global Sales Recruitment Playbook
+A structured hiring framework for identifying, evaluating, and selecting high-performing sales professionals.
+
+### Remote Recruitment Operations Playbook
+A framework supporting remote hiring processes, candidate sourcing pipelines, and recruitment workflows.
+
+### WiseWater Media Recruitment Projects
+• Sales Executive hiring  
+• Sales Manager placement  
+• Journalist recruitment and placement  
+• Candidate evaluation systems  
+
+---
+
+## Core Expertise
+
+• Global Sales Recruitment  
+• Talent Sourcing & Boolean Search  
+• Recruitment Operations Design  
+• Remote Hiring Frameworks  
+• Candidate Evaluation Systems  
+
+---
+
+## Founder – LushGlobal
+
+LushGlobal provides recruitment consulting and talent sourcing services focused on helping organizations build strong commercial teams.
+
+---
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/lucia-dzimba  
+Website: https://lushglobal.online
